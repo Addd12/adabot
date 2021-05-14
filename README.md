@@ -6,7 +6,7 @@ Adabot is a Raspberry Pi project with the following functionalities:
 
 Raspberry Pi 4 model B with 4GB, a sufficient memory amount to successfully finish this project. It has its own operating system named Raspberry Pi OS, which is Linux based. Considering that, the project can be developed directly from Raspberry Pi and this project was developed in Visual Studio Code IDE.  
 # Set up
-The set up of the Raspberry Pi OS can be completed by following the instructions of [their official page] (https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up).  
+The set up of the Raspberry Pi OS can be completed by following the instructions of [their official page](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up).  
 # Line-following
 The code for this task is located on the robot.py file. It can be run using `python3 robot.py`.  
 # Object detection 
