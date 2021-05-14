@@ -1,4 +1,4 @@
-# Adabot - line-following robot that detects objects on the way
+# Adabot: line-following robot that detects objects on the way
 Adabot is a Raspberry Pi project with the following functionalities: 
   - line-following
   - object detection
