@@ -22,3 +22,6 @@ After these steps are completed, make sure your teminal is on the correct direct
 # Sensing objects 
 An UDS of type HC-SR04 is used. This type of UDS requires 5V in order to work and considering the maximum voltage input that the Raspberry Pi can handle, two resistors are used to separate the voltage.  
 The object-sensing and line-following instructions are integrated together, so while following the line, if the robot faces an object at a distance of 20 cm or less, it stops.
+
+# Youtube video
+https://www.youtube.com/watch?v=62L8LD1m0m4
